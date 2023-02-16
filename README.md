@@ -73,8 +73,3 @@ Outputs
 |cloudfront_domain| cloudfront domain  |
  |s3_bucket_name| s3_bucket_name |
 
-
-Authors
-=======
-
-virtuecloud.io
