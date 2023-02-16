@@ -73,7 +73,8 @@ Outputs
 |cloudfront_domain| cloudfront domain  |
  |s3_bucket_name| s3_bucket_name |
 
-To Create Infrastructure using Terraform
+**To Create Infrastructure using Terraform
+**
 
 After configuring AWS secrets ,Apply following commands respectively:
 
